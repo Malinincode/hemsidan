@@ -21,7 +21,7 @@ header {
 
 #logo { 
 
-    display: inline-block;
+    display: block;
     width: 20%;
     height: auto;
     float: left;
@@ -44,14 +44,16 @@ main {
     background-color: rgba(247, 234, 217, 0.911); 
     height: 600px;
 }
-
+main h1 {
+    margin-top: 0px;
+}
 .ogonbrynspensel {
     float: right;
     width: auto;
   }
 
-  .om kohlindo {
-    width: 7%;
+  .omkohlindo {
+    width: 30%;
     height: auto;
   }
 footer {
