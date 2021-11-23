@@ -1,0 +1,66 @@
+* {
+
+    box-sizing: border-box;
+    
+    }
+
+
+body {
+    width: 100%;
+
+}
+
+header {
+    background-color: rgb(20, 2, 2); opacity: 100%;
+    padding: 2%;
+    margin: 0px;
+}
+.clearfix {
+    overflow: auto;
+  }
+
+#logo { 
+
+    display: inline-block;
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.pensel {
+    width: 7%;
+    height: auto;
+    }
+
+header nav a {
+    text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 20px 10px 20px;
+    color: white;
+    float: right;
+}
+
+main {
+    background-color: rgba(247, 234, 217, 0.911); 
+    height: 600px;
+}
+
+.ogonbrynspensel {
+    float: right;
+    width: auto;
+  }
+
+  .om kohlindo {
+    width: 7%;
+    height: auto;
+  }
+footer {
+    background-color: black; opacity: 100%;
+    padding: 4%;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding: auto;
+     color: white;
+     float: center;
+
+}
